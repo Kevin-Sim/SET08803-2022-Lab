@@ -1,4 +1,4 @@
 FROM openjdk:latest
-COPY ./target/classes/com /tmp/com
+COPY ./target/classes /tmp
 WORKDIR /tmp
 ENTRYPOINT ["java", "sem.napier.HelloWorld"]
