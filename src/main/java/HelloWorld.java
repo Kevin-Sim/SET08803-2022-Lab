@@ -1,5 +1,3 @@
-package sem.napier;
-
 /**
  * Initial class
  */
