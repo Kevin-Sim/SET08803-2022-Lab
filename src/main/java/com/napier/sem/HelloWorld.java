@@ -1,3 +1,5 @@
+package com.napier.sem;
+
 /**
  * Initial class
  */
